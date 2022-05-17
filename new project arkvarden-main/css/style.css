@@ -1,0 +1,106 @@
+.zag1{
+            text-align: center;
+            font-size: 50px;
+            margin-right: 300px;
+            color: white;
+         }
+         .zag2{
+            text-align: center;
+            font-size: 40px;
+            margin-right: 300px;
+            color: white;
+         }
+         .img1{
+            margin-top: 20px;
+            margin-left: 40px;
+         }
+         .img2{
+            text-align: center;
+         }
+         .base{
+            background-color: black;
+         }
+         .bio{
+            margin-left: 400px;
+            font-size: 20px;
+            margin-right: 350px;
+            color: azure;
+            font-style:italic;
+         }
+         .zag3{
+            text-align: center;
+            font-size: 40px;
+            color: white;
+            
+         }
+         .skill{
+            text-align: center;
+         }
+         .zag4{
+            text-align: center;
+            font-size: 40px;
+            color: white;
+         }
+         .zag5{
+            font-size: 30px;
+            color: white;
+            margin-left: 60px;
+         }
+         .plus{
+            font-size: 30px;
+            color: white;
+            margin-left: 60px;
+            float:left;
+            width:49%;
+         }
+         .hr{
+            color: dimgray;
+         }
+         .min{
+            font-size: 30px;
+            color: white;
+            float:right;
+            padding:0 0 0 2%;
+            width:49%;
+         
+         }
+         .text1{
+            font-size: 40px;
+            color: white;
+            margin-right: 400px;
+            margin-left: 300px;
+         }
+         .text2{
+            font-size: 40px;
+            color: white;
+            text-align: center;
+         }
+         .text3{
+            font-size: 18px;
+            color: azure;
+            font-style:italic;
+            text-align: center;
+         }
+         .page{
+            text-align: center;
+            font-size: 40px;
+            margin-right: 300px;
+            color: #9400d3;
+         }
+         .button {
+            appearance: none;
+            border: 0;
+            border-radius: 5px;
+            background: #4676D7;
+            color: #fff;
+            padding: 8px 16px;
+            font-size: 16px;
+          }
+         .button:hover {
+            background: #1d49aa;
+         }
+          
+.button:focus {
+   outline: none;
+   box-shadow: 0 0 0 4px #cbd6ee;
+ }
